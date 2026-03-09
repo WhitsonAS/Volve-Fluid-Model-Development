@@ -1,5 +1,9 @@
-# Volve-Fluid-Model-Development
-Repository showing the data, predictions, and models for the Volve Field.
+# Volve Fluid Model Development
+Repository showing the data, predictions, and models for the Volve Field. The model development is based on a single MDT oil sample, and is validated by another MDT oil sample taken at the same time.
+
+The model development utilizes the **whitson<sup>PVT</sup>** software, provided by **whitson**.
+
+Want to learn more about **whitson<sup>PVT</sup>**? Feel free to contact us at support.pvt@whitson.com!
 
 ## PVT Data & Fluid Models
 
